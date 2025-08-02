@@ -1,5 +1,5 @@
 <h1 align="center">👺 kyrox2.0</h1>
-! [Kyrox2.0 Bot](https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&size=80&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&height=200&lines=Kyrox2.0%20Bot%20🤖;VERSION+1.0;PAR+KYROX-Tech)
+
 <p align="center">
   <img src="https://i.postimg.cc/jSY1Y03n/Screenshot-20230531-215658.png" width="300"/><br>
   <b>Fast, Powerful, and Stylish WhatsApp Bot built for fun and performance.</b>

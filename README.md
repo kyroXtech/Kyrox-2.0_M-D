@@ -28,8 +28,7 @@
 
 🚀 **powered by kyrox-tech**
 
-⚡ ᴏᴘᴛɪʟɪɴᴋ
-[![Deploy with Optilink](https://img.shields.io/badge/Deploy%20Now-OptiLink-2ecc71?style=for-the-badge)]([https://optiklink.com/home])
+
 
 🌐 ʀᴇɴᴅᴇʀ
 
@@ -37,11 +36,10 @@
 
 ☁️ ᴋᴏʏᴇʙ
 
-[![Koyeb](https://img.shields.io/badge/Deploy-Koyeb-00C2FF?style=for-the-badge&logo=koyeb)](https://www.koyeb.com)
 
 🛰️ ᴛᴀʟᴋᴅʀᴏᴠᴇ
 
-[![Talkdrove](https://img.shields.io/badge/Deploy-Talkdrove-orange?style=for-the-badge)](#)
+
 
 🔄 ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴏɴs
 ᴅᴇᴘʟᴏʏ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴜsɪɴɢ `.yml` ᴡᴏʀᴋғʟᴏᴡ ɪɴsɪᴅᴇ ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴏɴs.

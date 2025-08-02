@@ -14,8 +14,7 @@
 
 **kyrox-tech**
 
-[![Kyrox2.0 SESSION](https://IMG.shields.io/badge/kyrox_session-id-blue
----
+
 
 🧠 **Kyrox-tech**
 
